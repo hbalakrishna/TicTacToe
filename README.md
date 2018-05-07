@@ -21,13 +21,12 @@ Each player has to input the coordinates of the board
 
 Whoever places three respective marks (xx or oo) horizontally, vertically or diagonally will be the winner.
 
-The gifs below show the 4 by 4 board for a win & tie game.
-
 **How to run the code**
 1. Using any python IDE
 2. Using the command line python interpreter by using the following command
     * python TicTacToe.py
 
+**_The gifs below show the 4 by 4 board for a win & tie game._**
 
 **Winning Game GIF**
 ![Winner](./images/sucess.gif)

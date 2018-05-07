@@ -7,7 +7,7 @@ Each player has to input the coordinates of the board
 
 **Game Rules**
 
-1. Traditionally the first player plays with "X". So you can decide who wants to go with "X" and who wants go with "O".
+1. Traditionally the first player plays with "xx". So you can decide who wants to go with "xx" and who wants go with "oo".
 
 2. Only one player can play at a time.
 
